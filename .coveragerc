@@ -1,0 +1,3 @@
+[run]
+source = respec3
+omit = respec3/test*
